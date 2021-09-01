@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630464975 source:c:\users\user\desktop\inserccion\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
